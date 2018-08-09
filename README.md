@@ -13,6 +13,7 @@ Note that all the philosophy from phusion/baseimage-docker is kept untouched. Yo
 This image tags match the version of OTP you want to use. If your version is missing, just open a PR.
 
 Available pre-built images Elixir versions (or check on [docker hub](https://hub.docker.com/r/ook99/baseimage-elixir/tags/)):
+  * Elixir 1.7.0 / OTP 21.0
   * Elixir 1.6.6-2 / OTP 21.0
   * Elixir 1.5.2 / OTP 20.3.6
 
